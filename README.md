@@ -1,5 +1,4 @@
-# Soda Calendrier Social
-## Engagement de confidentialité
+## Engagement de confidentialité Weavus
 Ce texte décrit comment Weavus (anciennement Soda) traite vos données personnelles et engage Weavus et ses auteurs à effectivement traiter vos données comme décrit dans ce document, ainsi qu'à mettre ce document à jour en cas de changement des modalités de traitement de vos données personnelles.
 
 ### 1. Données personnelles collectées
